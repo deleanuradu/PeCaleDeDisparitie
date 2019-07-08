@@ -1,0 +1,144 @@
+<resources>
+    <string name="app_name">Pe Cale De Dispariție</string>
+    <string name="buton">Continuă</string>
+    <string name="textview">Această aplicație are ca scop informarea utlizatorului in legătură
+        cu diverse specii de plante și animale pe cale de dispariție de pe teritoriul României.
+        (O conexiune la internet este necesară pentru informații adiționale).</string>
+    <string name="textView2">Selectați o specie din lista de mai jos:</string>
+    <string name="buttonInfo">Mai multe informații</string>
+    <string name="titleCapra">Capra Neagră</string>
+    <string name="textViewCapra">Capra-neagră (Rupicapra rupicapra) este un animal care face parte
+        din familia Bovidae, subfamilia Caprinae. Ea este răspândită în regiunile muntoase din
+        Europa și Asia Mică.
+        Morfologie:
+        Capra-neagră are o înălțime între 110 și 130 cm, are o coadă scurtă (maximum 7 cm),
+        având înălțimea la greabăn de 75 cm, cântărind între 30 și 50 de kg. Are un corp relativ scund,
+        picioare musculoase cu copită despicată, un gât relativ lung terminat cu un cap scurt prevăzut
+        la ambele sexe cu două coarne inelate și încovoiate spre înapoi. În spatele coarnelor se găsesc
+        două glande care secretă în perioada de împerechere un lichid cleios cu miros neplăcut.
+        În timpul verii capra-neagră are o culoare spălăcită brun-roșcată, partea inferioară a corpului
+        fiind alb-gălbui, având pe spate o dungă neagră. Iarna culoarea caprei este brun închis, brun negricios,
+        fiind alb pe abdomen și picioare, capul fiind de culoare albă-gălbuie, pe creștet având o dungă de culoare închisă.</string>
+    <string name="titleRas">Râsul </string>
+    <string name="textViewRas">Râșii sau lincșii (Lynx) sunt un grup al celor patru specii de feline sălbatice
+        e mărime medie. Toate sunt considerate ca făcând parte din genul Lynx, dar unele autorități le clasifică
+        să facă parte din genul Felis, căruia îi aparține pisica sălbatică și pisica de casă. Caracalul,
+        numit uneori râsul african sau râsul persian, este considerat ca făcând parte din genul Felis.
+        Din toate patru speciile de lincși, doar râsul iberic (L. pardinus) a fost evaluat la lista roșie a IUCN
+        că specia amenințată critic. Celelalte, în ciuda faptului că au fost vânate în mod necontrolat în
+        secolele XIX și XX rămân să fie în afara oricărui pericol de dispariție la nivelul mondial, fiind
+        totuși amenințate în unele țări.</string>
+
+    <string name="titleZimbru">Zimbrul </string>
+    <string name="textViewZimbru">Zimbrul (Bison bonasus) este o specie de bizon care se găsește în Europa.
+        Animalul a fost descris prima dată în literatura științifică de Carl Linné în 1758. În 1996 a fost
+        clasificat ca specie în pericol. Zimbrul este cel mai greu animal european de pe uscat. Un zimbru
+        are o lungime de 2,9 - 3 metri și o înălțime de 1,9 metri, cântărind de la 300 la 920 kg. Este mai înalt,
+        dar mai puțin masiv decât ruda sa apropiată bizonul american. De asemenea are păr mai scurt decât acesta.
+        Zimbrii sunt pe cale de dispariție. Zimbrii trăiesc în păduri, având foarte puțini dușmani naturali;
+        există doar câteva relatări din secolul al XIX-lea încoace despre atacuri din partea lupilor și urșilor.
+        Zimbrul este ierbivor. Zimbrii trăiesc 28 de ani în captivitate, dar în sălbăticie trăiesc mai puțin.
+        Pot avea pui la vârste între 4 și 20 de ani la femele și între 6 și 12 ani la masculi. Teritoriul zimbrilor
+        poate ocupa și 200 km², iar unele turme preferă pajiștile și poienile din pădure.</string>
+
+    <string name="titleCocos">Cocoșul De Munte</string>
+    <string name="textViewCocos">Cocoșul de munte (Tetrao urogallus) este o specie de păsări din familia fazanului
+        (Phasianidae), ordinul Galliformes. O pasăre foarte sperioasă, care se poate vedea rar în natură.
+        Morfologie:
+        La cocoși există un dimorfism sexual accentuat:
+        •   	masculul este mai mare atingând o greutate de 4 –5 kg, deschiderea aripilor măsoară 90 de cm, iar înălțimea
+        ajungând la 1 m . Penajul este pe spate, cap și aripi de un brun închis, iar pieptul are o culoare verde
+        cu lucii metalice.
+        •	femela este mult mai mică cântărind numai 2,5 kg, are o înălțime de 60 cm, deschiderea aripilor măsoară 70 cm.
+        Culoarea penajului pe partea superioară a corpului pestriță brună cu dungi argintii, iar partea inferioară
+        a corpului alb gălbui.
+        La ambele sexe cresc iarna pene pe picioare, iar lateral picioarele sunt prevăzute cu pinteni cornoși. Sub ochi
+        păsările au o parte a pielii neacoperită de pene de culoare roșie .
+        •	Puii au deja timpuriu culoarea femelei adulte cu o pata neagră specifică pe cap. Mai târziu prin luna august
+        în funcție de sex începe să schimbe culoarea penajului.
+        Ouăle cocoșilor de munte au mărimea oului de găină domestică, însă culoarea lor este albă punctat cu brun.
+        Hrana cocoșului de munte constă ca la galinacee în general din diferite părți vegetale, semințe fructe, insecte
+        și larvele lor, deoarece păsările sunt dependente de anumite specii de plante, acest fapt a
+        cauzat reducerea efectivului lor.</string>
+
+    <string name="titlePastrav">Păstrăvul</string>
+    <string name="textViewPastrav">Păstrăvul este o specie de pește care trăiește în special în apele de munte, ape cu
+        temperatură relativ scăzută și în timpul verii, dar poate fi găsit și în zonele mai joase, submontane și de deal,
+        cu condiția ca apele să fie puternic oxigenate.
+        Poate fi găsit și la altitudini de 250–300 m, însă principalul său habitat îl reprezintă apele de la altitudini de peste 1000 m.
+        Atinge 25–30 cm lungime și 0,8-1,6 kg greutate, ajungând excepțional la 50–90 cm lungime și 15 kg greutate. În România
+        cele mai mari exemplare, pescuite în lacul Bicaz, cântăresc în jur de 6 kg. Are spatele cenușiu-albăstrui sau
+        verzui întunecat cu flancurile argintii și abdomenul albicios. Se remarcă numeroase pete negre pe corp, dorsală și
+        caudală, lipsa petelor roșii și existența unei dungi multicolore în lungul liniei laterale, care lucește în culorile
+        curcubeului de unde și denumirea.</string>
+
+    <string name="titleNaparca">Năpârca</string>
+    <string name="textViewNaparca">Năpârca, șopârla apodă, șarpele de sticlă sau viermele orb (Anguis fragilis) este o
+        șopârlă lipsită de membre, cu corpul lung de 25-30 cm din familia Anguidae.
+        Are culoarea brun-cafenie cu aspect lustruit care dă o senzație de fragilitate, de aici numele latin fragilis. Adesea
+        masculii sunt stropiți pe spate cu puncte fine albastre. Partea ventrală la ambele sexe este cenușie. Specia
+        este ovovivipară, adică femela poartă ouăle până la eclozare dar fără ca puii să aibă legături placentare cu mama.
+        Aceștia apar de obicei în august și se hrănesc la început cu larve mici, iar apoi cu tot felul de artropode, melci, râme.
+        deseori este confundată și fiind destul de lentă, cade victimă în fața unora care cred că este un pui de șarpe.
+        La pericol, ca și oricare altă șopârlă, își lasă coada în gura prădătorului.</string>
+
+    <string name="titleZagan">Zăgan </string>
+    <string name="textViewZagan">Zăganul (cuvântul este moştenit din limba dacilor), mai este cunoscut şi sub denumirea de vultur bărbos. Este o pasăre de pradă diurnă caracteristică zonelor muntoase şi este prezent în mod obişnuit la altitudini cuprinse între 500-4000 m, dar a fost întâlnit şi la 7500 m altitudine în Himalaya.
+
+Lungimea corpului este de 105-125 cm şi greutatea este cuprinsă între 4500-7800 g (media 6210 g). Femela este puţin mai mare decât masculul. Anvergura aripilor este cuprinsă între 235-275 cm. Adulţii au înfăţişare similară.
+
+Este o pasăre maiestuoasă, cu un penaj ce îmbină portocaliul ruginiu cu negrul într-o combinaţie inegalabilă. Este unul dintre cei mai mari vulturi din lume. Atinge penajul de adult după cinci ani. Păsările tinere au o culoare închisă. Se hrăneşte la fel ca majoritatea vulturilor cu hoituri, însă ca particularitate, se hrăneşte în proporţie mare cu măduva oaselor acestora. Aruncă oasele de la înălţime pe stânci, pentru a le sparge, apoi le înghite.Zăganul se mai numește „vulturul cu barbă”, datorită celor doua smocuri de pene aspre care coboară de la baza ciocului, Ultimul zăgan a fost împușcat la pasul Turnu-Roșu în anul 1927.
+</string>
+
+    <string name="titleMorun">Morun</string>
+    <string name="textViewMorun">Morunul (Huso huso) este un pește marin bentonic, anadrom, din familia acipenseridelor (Acipenseridae), care trăiește în Marea Neagră, Marea Adriatică și Marea Caspică și migrează în fluviile tributare pentru reproducere. Este cel mai mare dintre sturionii noștri, putând trece de 5 m lungime iar ca greutate ajunge la 2.000 kg (s-au citat și moruni de 9 m lungime). Coloritul corpului cenușie-închisă pe spate și alb pe abdomen. Are corpul masiv, alungit și gros, capul relativ mic și botul scurt, aproximativ conic, cu gura inferioară semilunară. Buza de sus întreagă, cea de jos întreruptă la mijloc pe un spațiu mare. Cele 4 mustăți de pe partea ventrală a botului sunt turtite lateral. Este lipsit de solzi, iar corpul este acoperit cu cinci rânduri de plăci (scuturi) osoase mici longitudinale. Trăiește până la 100 de ani. Depune icrele la adâncimi de 8-20 m în fluvii, pe fund argilos și pietriș, în curentul apei în aprilie-iunie. Este un pește carnivor, se hrănește cu crustacee, larve de insecte, larve de pești și pești mici: scrumbie, hamsii, guvizi etc. Are valoare economică foarte mare și este pescuit pentru carnea gustoasă și icrele negre. Morunul este clasificată după IUCN ca o specie pe cale de dispariție (CR). </string>
+
+    <string name="titleAntilopa">Antilopa Saiga</string>
+    <string name="textViewAntilopa">Saiga (lat. Saiga tatarica) este o antilopă aflată în pericol de dispariție, care, inițial a populat o arie vastă a zonei de stepă eurasiatică de la poalele munților Carpați (în vest) și Caucaz (sud) până în Djungaria și Mongolia (est). A viețuit și în America de Nord în timpul Pleistocenului.
+Subspecia S. t. Tatarica se găsește într-o singură locație din Rusia (stepele din regiunea de nord-vest a Câmpiei Caspice) și trei zone din Kazahstan (populații în Ural, Ustiurt și Betpak-Dala). O parte a populației din Ustiurt migrează ocazional spre sud în Uzbekistan și Turkmenistan, în timpul iernii. Specia a dispărut în China și sud-vestul Mongoliei. Subspecia mongolă (S. t. Mongolica) se găsește doar în vestul Mongoliei. Unele surse consideră subspecia mongolă a fi o specie distinctă – Saiga mongolă (Borealis Saiga).
+Saiga atrage atenția datorită ciudatului său nas lung și coroiat, în formă de trompă. Forma nasului adaptată la alergatul în viteză prin aerul înghețat al stepelor pe timp de iarnă. Având cavitatea nazală foarte mare, aerul este încălzit natural înainte de a pătrunde în plămâni. În acest fel, antilopele pot alerga în viteză mare o perioadă de timp suficient de lungă încât să scape de hăituiala lupilor.
+În prezent, mai supraviețuiesc doar cca. 50.000 de exemplare, din cele 4-5 milioane câte erau la nivelul anului 1900.
+</string>
+
+    <string name="titlePelican">Pelican</string>
+    <string name="textViewPelican">Pelicanul (Pelecanus) face parte din familia păsărilor acvatice Pelecanidae care cuprinde 8 specii. Sunt păsări mari, răspândite în regiunile temperate și tropicale.
+Pelicanul, excelent zburător și bun înotător, are un corp îndesat, un cioc lung, cu o pungă galben-portocalie sub el, ce se poate dilata. Pelicanii nu se pot scufunda, dar pescuiesc împreună, încercuind peștii sau broaștele și aruncându-și simultan capetele în apă cu ciocurile larg deschise, la adâncime mică. Se folosesc atunci de pungile lor ca de o plasă. Se hrănesc mai ales cu pești bolnavi sau izolați în bălți pe cale de desecare, fiind considerați ca adevărați „sanitari piscicoli”. În caz de penurie de pește, li se poate întâmpla să atace cuiburile altor păsări sau mai adesea depozitele de gunoaie omenești. Fiind păsări migratoare, sosesc în România între martie și mai, apoi pleacă în septembrie-octombrie, spre Delta Nilului, regiunea Golfului Persic sau coastele Asiei.
+</string>
+
+    <string name="titleHoitar">Hoitar</string>
+    <string name="textViewHoitar">Hoitarul alb sau vulturul egiptean (Neophron percnopterus) este o specie de vultur cu o arie de răspândire destul de largă: sud-vestul Europei, în nordul Africii, dar puține exemplare se mai găsesc și în sudul Asiei.
+Exemplarele adulte măsoară din vârful ciocului până în extermitatea cozii 85 cm.Deschiderea aripilor are de obicei 1,7m dar au fost exemplare care au depășit această măsură. Poate cântări 2,1 kg. Penajul este alb dar prezintă câteva pete în zona cozii dar și a aripilor.Penele se tocesc repede și înainte de năpârlire culoarea penelor tocite este mai degrabă bej decât albă. Uneori el își "vopsește" penele cu un praf care conține oxid de fier și astfel penele sale capătă o nuanță însemnată de galben. Din această cauză localnicii îi mai spun și vulturul murdar. Trăiește pe langa carierele de piatră și prin zonele cu mult praf căutând cadavre(hoituri). Pielea feței este nudă,aspră și galbenă. Doar în perioada de reproducere pielea de pe față la mascul se colorează în portocaliu.
+</string>
+
+    <string name="titleFloare">Floarea De Colț</string>
+    <string name="textViewFloare">Floarea-reginei, sau floarea-de-colț, (Leontopodium alpinum Cass.) este o specie de plante erbacee, perene, din genul Leontopodium Cass., familia Asteraceae.
+Planta este lânat-tomentoasă, înaltă de 5 – 20 cm, cu inflorescențe compuse din capitule, înconjurate de numeroase bractee lungi, alb - argintii, lânos - păroase. Dacă în România planta ajunge doar până la înălțimea de maximum 20 cm, ea poate crește în alte țări până la 50 – 80 cm. Inflorescența este îmbrăcată cu frunze păroase, unele mai mari, altele mai mici și care iau forma unei steluțe.Aceasta este formată până la zece inflorescențe cu numeroase și minuscule flori, încadrate de 5-15 bactee albe, dispuse radiar, ce dau întregului ansamblu înfățișarea unei flori. Planta este acoperită cu peri catifelați, argintii, ce îi conferă o eleganță deosebită. Perioada de înflorire este iulie - august.
+</string>
+
+    <string name="titleBujor">Bujorul De Munte</string>
+    <string name="textViewBujor">Smârdarul sau Bujorul de munte (Rhododendron kotschyi Simonkai syn. Rh. myrtifolium) este o plantă originară din Balcani. În România se găsește în Carpați. Face parte din genul botanic Rhododendron, gen extrem de variat ce cuprinde diferite specii care cresc doar la altitudine înaltă și se extind din Himalaia, Caucaz, Carpați până în Munții Alpi și Pirinei.
+Smârdarul, așa cum este denumit popular bujorul de munte, crește spontan în tufe pitice în zona alpină. Fiind o plantă care crește în condiții climaterice și de relief foarte specifice, el nu tolerează transplantări, lucru care face imposibilă introducerea acestuia în grădini. Frumusețea florilor sale - care emană un miros și o aromă asemănatoare vișinelor - și care apar de obicei pe la sfârșitul lunii iunie și la începutul lunii iulie, și raritatea sa, face ca smârdarul să fie o plantă ocrotită și protejată ca atare în perimetrul Parcului Național Bucegi. Smârdarul este peren și își păstrează frunzele verzi tot timpul anului.
+</string>
+
+    <string name="titleLalea">Laleaua Pestriță</string>
+    <string name="textViewLalea">Fritillaria meleagris, denumită popular laleaua pestriță, este o plantă cu flori din familia liliaceelor ce se găsește extinsă în Eurasia.
+Floarea plantei are un motiv cadrilat (pestriț), prezentându-se în variante multiple de purpuriu sau, uneori de roșu spre purpuriu. Câteodată florile sunt complet albe. Înflorește din martie până în mai, crescând între 15 și 40 de cm în înălțime. Bulbul plantei are un diametru de circa 2 cm și conține alcaloizi otrăvitori. Crește pe terenuri ierboase, în luncile râurilor până la circa 800 de metri altitudine.
+Se găsește în stare de sălbăticie în Lunca Pogănișului din județul Timiș, pe o porțiune mai joasă de teren din lunca râului Pogăniș, aflată în apropierea localităților Tormac, Blajova și Berini. Zona, în suprafață de 75,5 hectare, a fost declarată rezervație naturală în anul 2000.
+O altă zonă importantă în care acest monument botanic crește în stare naturală este Rezervația naturală Pădurea Zamostea-Luncă, din comuna Zamostea, județul Suceava. În această arie protejată de interes național, de categoria a IV-a IUCN, în suprafață de 107,6 hectare, laleaua pestriță se găsește într-un număr semnificativ, pe un areal destul de întins. Perioada de înflorire aprilie-mai se regăsește în rezervația biodiversității Pădurea Zamostea-Luncă sub forma unei feerii de lalele pestrițe înflorite.
+</string>
+
+    <string name="titleSange">Sângele Voinicului</string>
+    <string name="textViewSange">Sângele voinicului (Nigritella rubra) este o plantă din familia Orchidaceae. Are tulpina dreaptă, înaltă de 8–14 cm. Frunzele sunt numeroase și înguste, alungite, îndreptate spre cer. Florile sunt mici și numeroase, strânse la vârful tulpinii într-un ghem oval. Florile au culoarea roșie-purpurie întunecată, cu miros plăcut de vanilie. Rădăcina este formată din tubercule spintecate. Înflorește în luna iunie și august.
+În România se găsește foarte rar, în munții Carpați în nord-est și la sud.
+</string>
+
+    <string name="titleGarofita">Garofița Pietrei Craiului</string>
+    <string name="textViewGarofita">Garofița Pietrei Craiului (Dianthus callizonus) este o plantă din familia Caryophyllaceae.
+Tulpina este scurtă, de 50 - 100 mm înălțime. Poartă la vârf o floare cu corola de cca. 30 mm în diametru. Floarea, de culoare roșu-carmin, este formată din cinci petale, dințate la vârf. Florile la bază au o pată purpurie, împestrițată cu alb și cu peri albi, mătăsoși, strălucitori. În centrul florii se află un inel purpuriu caracteristic. Pe dos, petalele sunt alb-verzui. Înflorește în luna august.
+Frunzele, așezate în perechi, sunt înguste și alungite, având lungimea de 20 - 40 mm.
+</string>
+
+
+
+
+</resources>
